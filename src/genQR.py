@@ -11,12 +11,12 @@ tasks = [
         "output_path": "qr/scholar.png",
     },
     {
-        "website_url": "https://pypi.org/user/ryan_shanghaitech",
+        "website_url": "https://pypi.org/user/rui1002",
         "logo_path": "resource/pypi.png",
         "output_path": "qr/pypi.png",
     },
     {
-        "website_url": "https://github.com/RyanShanghaitech",
+        "website_url": "https://github.com/rui-luo1002",
         "logo_path": "resource/github.png",
         "output_path": "qr/github.png",
     },

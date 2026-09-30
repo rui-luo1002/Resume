@@ -1,14 +1,13 @@
 # Fdb version 4
-["xdvipdfmx"] 1777009906.33806 "罗瑞_嵌入式_磁共振.xdv" "罗瑞_嵌入式_磁共振.pdf" "罗瑞_嵌入式_磁共振" 1777009906.68772 0
-  "罗瑞_嵌入式_磁共振.xdv" 1777009906.28869 55320 bd88e51fac0d74ce3b7b97f40ed910c8 "xelatex"
+["xdvipdfmx"] 1790757937.67437 "罗瑞_嵌入式_磁共振.xdv" "罗瑞_嵌入式_磁共振.pdf" "罗瑞_嵌入式_磁共振" 1790757937.99406 0
+  "罗瑞_嵌入式_磁共振.xdv" 1790757937.61213 55668 a72f3cf8d096d2b684ac557799e03c00 "xelatex"
   (generated)
   "罗瑞_嵌入式_磁共振.pdf"
   (rewritten before read)
-["xelatex"] 1777009905.23041 "/home/ryan/LProject/Github/Resume/zh-cn/罗瑞_嵌入式_磁共振.tex" "罗瑞_嵌入式_磁共振.xdv" "罗瑞_嵌入式_磁共振" 1777009906.6867 0
-  "../qr/github.png" 1776347043.07128 29140 ec2d8c2ca549e8f9e313c6f8707be1fd ""
-  "../qr/pypi.png" 1776347043.07128 37083 2e59e976c470b3c533981b02a5975cda ""
-  "../qr/scholar.png" 1776347043.07128 33602 6e0255ab7299d75bb601ffaa68f763a0 ""
-  "/home/ryan/LProject/Github/Resume/zh-cn/罗瑞_嵌入式_磁共振.tex" 1777009893.64788 9132 91abf5e867162cb57635995c513b1636 ""
+["xelatex"] 1790757936.54355 "罗瑞_嵌入式_磁共振.tex" "罗瑞_嵌入式_磁共振.xdv" "罗瑞_嵌入式_磁共振" 1790757937.99279 0
+  "../qr/github.png" 1790756505.92282 25284 76605e2f9dd2d9794210b9e85300fcf7 ""
+  "../qr/pypi.png" 1790756505.89874 31999 014f99078d147ab6c7bdfcecfdeebe93 ""
+  "../qr/scholar.png" 1790756505.87466 33602 6e0255ab7299d75bb601ffaa68f763a0 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/academicons/academicons.tfm" 1758138305 852 e7239cbccaef4082845a39b91698461d ""
@@ -166,9 +165,9 @@
   "/usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf" 1770478701 43630 e9fa012910491fe5ae08a72c3c2997a7 ""
   "/usr/local/texlive/2026/texmf-var/web2c/xetex/xelatex.fmt" 1776250182 5954931 d6b9586b8d5f519ff3bb0330a11678fd ""
   "/usr/local/texlive/2026/texmf.cnf" 1776250162.11211 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "罗瑞_嵌入式_磁共振.aux" 1777009906.28869 1757 1dd31714f8836df62a5b10c4fba3f2bc "xelatex"
-  "罗瑞_嵌入式_磁共振.out" 1777009906.28869 2664 ad8dba0b61f06e0fd7681efc146e9d0d "xelatex"
-  "罗瑞_嵌入式_磁共振.tex" 1777009893.64788 9132 91abf5e867162cb57635995c513b1636 ""
+  "罗瑞_嵌入式_磁共振.aux" 1790757937.60812 1757 1dd31714f8836df62a5b10c4fba3f2bc "xelatex"
+  "罗瑞_嵌入式_磁共振.out" 1790757937.61213 2664 ad8dba0b61f06e0fd7681efc146e9d0d "xelatex"
+  "罗瑞_嵌入式_磁共振.tex" 1790757933.12379 9172 79f05d502daadf1ee9efa6c5d846a91a ""
   (generated)
   "罗瑞_嵌入式_磁共振.aux"
   "罗瑞_嵌入式_磁共振.log"

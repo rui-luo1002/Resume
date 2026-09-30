@@ -2,7 +2,7 @@ PWD /home/ryan/LProject/Github/Resume/zh-cn
 INPUT /usr/local/texlive/2026/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf-var/web2c/xetex/xelatex.fmt
-INPUT /home/ryan/LProject/Github/Resume/zh-cn/罗瑞_嵌入式_磁共振.tex
+INPUT 罗瑞_嵌入式_磁共振.tex
 OUTPUT 罗瑞_嵌入式_磁共振.log
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/ctex/ctexart.cls
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/ctex/ctexart.cls
